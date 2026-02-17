@@ -58,17 +58,6 @@
 | 🌱 **EcoWatch** | Environmental monitoring system | .NET Core, SQL Server | 🚧 In Progress |
 | 📈 **Stock/Crypto System** | Real-time market data tracking | Spring Boot, PostgreSQL | 🚧 In Progress |
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baraa194&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6F61&icon_color=F7C59F&text_color=FFFFFF" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baraa194&theme=radical&hide_border=true&background=0d1117&stroke=FF6F61&ring=61DAFB&fire=F7C59F&currStreakNum=FFFFFF" width="45%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baraa194&bg_color=0d1117&color=FF6F61&line=61DAFB&point=F7C59F&area=true&hide_border=true" width="90%" />
-</div>
-
 ## 📫 Let's Connect
 
 <p align="center">
