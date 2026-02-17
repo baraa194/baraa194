@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Baraa
 
-<!--
-**baraa194/baraa194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer  
+Experience with .NET  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Java
+- Spring Boot
+- C#
+- ASP.NET Core
+- SQL Server
+- RESTful APIs
+ - Postgresql
+- Entity Framework
+- Hibernate
+- RESTful APIs
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Quiz App (Java) — Team Project  
+- EcoWatch System (.NET) — Graduation Project (In Progress)  
+- Stock/Crypto Market System (Spring Boot) — In Progress  
+
+## 📫 Contact
+- Email: ezzatbaraa807@gmail.com
+
