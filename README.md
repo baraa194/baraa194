@@ -2,10 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Baraa%20Ezzat&fontSize=50&fontColor=fff&animation=twinkling&desc=Java%20Backend%20Developer%20%7C%20.NET%20Enthusiast&descSize=20&descAlignY=60" width="100%"/>
 </div>
 
-<!-- Profile Section with More Space -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=FF6F61&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Baraa+Ezzat;Java+Backend+Developer;.NET+Enthusiast" alt="Typing SVG" />
+<!-- Simple Name -->
+<h1 align="center" style="color: #FF6F61; font-size: 3em;">
+  Hi, I'm Baraa Ezzat
 </h1>
+
+<h3 align="center" style="color: #f7c59f; margin-top: 0;">
+  Java Backend Developer | .NET Enthusiast
+</h3>
 
 <!-- Extra Space Here -->
 <br/>
