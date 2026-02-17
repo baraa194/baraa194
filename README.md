@@ -54,9 +54,9 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🎯 **Quiz App** | Interactive quiz platform with real-time scoring | Java, Spring Boot | ✅ Complete |
+| 🎯 **Quiz App** | Interactive quiz platform with real-time scoring | Java, Spring Boot ,PostgreSQL | ✅ Complete |
 | 🌱 **EcoWatch** | Environmental monitoring system | .NET Core, SQL Server | 🚧 In Progress |
-| 📈 **Stock/Crypto System** | Real-time market data tracking | Spring Boot, PostgreSQL | 🚧 In Progress |
+| 📈 **Stock/Crypto System** | Real-time market data tracking | Java, Spring Boot, PostgreSQL | 🚧 In Progress |
 
 ## 📫 Let's Connect
 
