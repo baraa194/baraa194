@@ -2,10 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Baraa%20Ezzat&fontSize=50&fontColor=fff&animation=twinkling&desc=Java%20Backend%20Developer%20%7C%20.NET%20Enthusiast&descSize=20&descAlignY=60" width="100%"/>
 </div>
 
-<!-- Profile Section -->
+<!-- Profile Section with More Space -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=FF6F61&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Baraa+Ezzat;Java+Backend+Developer;.NET+Enthusiast" alt="Typing SVG" />
 </h1>
+
+<!-- Extra Space Here -->
+<br/>
+<br/>
 
 <!-- Quick Info Badges -->
 <p align="center">
@@ -16,6 +20,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+<!-- More Space -->
+<br/>
+
 <!-- About Me -->
 <div align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" align="right" />
@@ -23,11 +30,14 @@
   <h3 style="color: #FF6F61;">⚡ About Me</h3>
   <p style="font-size: 1.1em; max-width: 600px;">
     Passionate about building efficient, scalable, and robust backend systems. 
-    Constantly exploring new technologies to solve complex problems.
+    Constantly improving my skills in this field.
   </p>
 </div>
 
 <br clear="both"/>
+
+<!-- Space Before Tech Stack -->
+<br/>
 
 ## 🚀 Tech Stack
 
@@ -50,13 +60,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<!-- Space Before Projects -->
+<br/>
+
 ## 📌 Featured Projects
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🎯 **Quiz App** | Interactive quiz platform with real-time scoring | Java, Spring Boot ,PostgreSQL | ✅ Complete |
+| 🎯 **Quiz App** | Interactive quiz platform with real-time scoring | Spring Boot, PostgreSQL| ✅ Complete |
 | 🌱 **EcoWatch** | Environmental monitoring system | .NET Core, SQL Server | 🚧 In Progress |
-| 📈 **Stock/Crypto System** | Real-time market data tracking | Java, Spring Boot, PostgreSQL | 🚧 In Progress |
+| 📈 **Stock/Crypto System** | Real-time market data tracking | Spring Boot, PostgreSQL | 🚧 In Progress |
+
+<!-- Space Before Contact -->
+<br/>
+<br/>
 
 ## 📫 Let's Connect
 
@@ -82,4 +99,9 @@
   </p>
   
   <p>🌟 Always learning, building, and improving.</p>
+  
+  <!-- Footer with Date/Time (optional) -->
+  <p style="color: #666; font-size: 0.8em;">
+    ENG • 3:45 PM • 2/17/2026
+  </p>
 </div>
