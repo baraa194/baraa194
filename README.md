@@ -28,7 +28,7 @@
 | 🚀 **Hatly App** | Spring Boot, Angular, Redis, WebSockets | Full-stack delivery platform with real-time driver dispatching, live GPS location tracking, and instant WebSocket notifications. | ✅ Complete |
 | 🌱 **EcoWatch** | .NET Core, SQL Server, Entity Framework | Recycling transactions tracker & user points management system built with clean architecture. | ✅ Complete |
 | 🎯 **Quiz App** | Spring Boot, PostgreSQL, REST APIs | Interactive quiz-taking application handling dynamic questionnaire logic and performance evaluation. | ✅ Complete |
-| 📈 **Stock/Crypto Tracker** | Spring Boot, PostgreSQL, RxJS | Real-time tracking system capturing live price updates and historical market analysis. | ✅ Complete |
+| 📈 **Stock/Crypto Tracker** | Angular, Spring Boot, PostgreSQL, RxJS  | Full-stack Real-time tracking system capturing live price updates and historical market analysis. | ✅ Complete |
 
 ---
 
